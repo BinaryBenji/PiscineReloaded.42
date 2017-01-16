@@ -1,2 +1,2 @@
 # ReloadedPiscine
-Best of Piscine. T.T
+Compilation of the most horrible exercices of Piscine42.
